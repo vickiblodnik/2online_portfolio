@@ -1,0 +1,22 @@
+body {
+	background: ffffff;
+	}
+
+.face {
+  float: right;
+  width: 130px;
+  margin: 5px;
+  padding: 3px
+
+}
+
+.left {
+float: left;
+}
+ h2 { 
+ 	float left}
+
+ .left2 {
+float: left;
+margin: 10px
+}
